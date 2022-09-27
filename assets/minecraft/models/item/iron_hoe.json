@@ -1,0 +1,1680 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_hoe"
+	},
+	"overrides": [{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0
+			},
+			"model": "item/iron_hoe"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.004201680672268907
+			},
+			"model": "item/halloween/decor/burlapsif"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.008403361344537815
+			},
+			"model": "item/halloween/decor/blacksif"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.012605042016806723
+			},
+			"model": "item/halloween/decor/talldeadbush"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.01680672268907563
+			},
+			"model": "item/halloween/decor/flowerpotdaffodil"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.021008403361344536
+			},
+			"model": "item/halloween/decor/deadplanks"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.025210084033613446
+			},
+			"model": "item/halloween/decor/yellowlightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.029411764705882353
+			},
+			"model": "item/halloween/decor/tanlightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.03361344537815126
+			},
+			"model": "item/halloween/decor/bluelightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.037815126050420166
+			},
+			"model": "item/halloween/decor/greenlightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.04201680672268907
+			},
+			"model": "item/halloween/decor/purplelightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.04621848739495798
+			},
+			"model": "item/halloween/decor/orangelightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.05042016806722689
+			},
+			"model": "item/halloween/decor/whitelightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.0546218487394958
+			},
+			"model": "item/halloween/decor/graylightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.058823529411764705
+			},
+			"model": "item/halloween/decor/redlightbeam"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.06302521008403361
+			},
+			"model": "item/halloween/scarecrow/deadcorn"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.06722689075630252
+			},
+			"model": "item/halloween/decor/deadvines"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.07142857142857142
+			},
+			"model": "item/halloween/decor/lightingtruss"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.07563025210084033
+			},
+			"model": "item/halloween/blumhouse/chainsaw"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.07983193277310924
+			},
+			"model": "item/halloween/decor/spiderweb1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.08403361344537814
+			},
+			"model": "item/halloween/decor/spiderweb2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.08823529411764705
+			},
+			"model": "item/halloween/blumhouse/chainsawarm"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.09243697478991596
+			},
+			"model": "item/halloween/halloween/myersarm"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.09663865546218486
+			},
+			"model": "item/halloween/halloween/ghostarm"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.10084033613445378
+			},
+			"model": "item/halloween/blumhouse/milliearm"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.10504201680672269
+			},
+			"model": "item/halloween/halloween/myersarm2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1092436974789916
+			},
+			"model": "item/halloween/halloween/couch1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1134453781512605
+			},
+			"model": "item/halloween/halloween/couch2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.11764705882352941
+			},
+			"model": "item/halloween/decor/talllamp1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.12184873949579832
+			},
+			"model": "item/halloween/blumhouse/milliearm2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.12605042016806722
+			},
+			"model": "item/halloween/decor/talllamp2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.13025210084033612
+			},
+			"model": "item/halloween/halloween/gunarm"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.13445378151260504
+			},
+			"model": "item/halloween/scarecrow/dvine1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.13865546218487396
+			},
+			"model": "item/halloween/decor/spiderweb3"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.14285714285714285
+			},
+			"model": "item/halloween/scarecrow/hintestines"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.14705882352941177
+			},
+			"model": "item/halloween/scarecrow/farmermanarm1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.15126050420168066
+			},
+			"model": "item/halloween/scarecrow/farmermanarm2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.15546218487394958
+			},
+			"model": "item/halloween/scarecrow/farmergirlarm2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.15966386554621848
+			},
+			"model": "item/halloween/scarecrow/scrowarm1"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1638655462184874
+			},
+			"model": "item/halloween/scarecrow/scrowarm2"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1680672268907563
+			},
+			"model": "item/halloween/scarecrow/scrowarm3"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1722689075630252
+			},
+			"model": "item/halloween/scarecrow/scrowarm4"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.1764705882352941
+			},
+			"model": "item/halloween/scarecrow/sccrowarm5"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.18067226890756302
+			},
+			"model": "item/halloween/scarecrow/scrowarm6"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.18487394957983191
+			},
+			"model": "item/misc/grootbodytransparent"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.18907563025210083
+			},
+			"model": "item/misc/crpearth"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.19327731092436973
+			},
+			"model": "item/misc/connectionssign"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.19747899159663865
+			},
+			"model": "item/misc/cafesign"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.20168067226890757
+			},
+			"model": "item/misc/eaterysign"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.20588235294117646
+			},
+			"model": "item/misc/creationssign"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.21008403361344538
+			},
+			"model": "item/misc/shopsign"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.21428571428571427
+			},
+			"model": "item/misc/purplegalaxy"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2184873949579832
+			},
+			"model": "item/misc/redgalaxy"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2226890756302521
+			},
+			"model": "item/misc/blankspace"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.226890756302521
+			},
+			"model": "item/misc/crswitchbacks"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2310924369747899
+			},
+			"model": "item/misc/crpslights"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.23529411764705882
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2394957983193277
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.24369747899159663
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.24789915966386553
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.25210084033613445
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.25630252100840334
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.26050420168067223
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2647058823529412
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2689075630252101
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.27310924369747897
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2773109243697479
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2815126050420168
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2857142857142857
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.2899159663865546
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.29411764705882354
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.29831932773109243
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3025210084033613
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3067226890756302
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.31092436974789917
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.31512605042016806
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.31932773109243695
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.32352941176470584
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3277310924369748
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3319327731092437
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3361344537815126
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3403361344537815
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3445378151260504
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3487394957983193
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3529411764705882
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.35714285714285715
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.36134453781512604
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.36554621848739494
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.36974789915966383
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3739495798319328
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.37815126050420167
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.38235294117647056
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.38655462184873945
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3907563025210084
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3949579831932773
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.3991596638655462
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.40336134453781514
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.40756302521008403
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4117647058823529
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4159663865546218
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.42016806722689076
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.42436974789915966
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.42857142857142855
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.43277310924369744
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4369747899159664
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4411764705882353
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4453781512605042
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.44957983193277307
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.453781512605042
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4579831932773109
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4621848739495798
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4663865546218487
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.47058823529411764
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.47478991596638653
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4789915966386554
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.4831932773109244
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.48739495798319327
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.49159663865546216
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.49579831932773105
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5042016806722689
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5084033613445378
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5126050420168067
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5168067226890756
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5210084033613445
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5252100840336135
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5294117647058824
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5336134453781513
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5378151260504201
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.542016806722689
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5462184873949579
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5504201680672268
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5546218487394958
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5588235294117647
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5630252100840336
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5672268907563025
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5714285714285714
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5756302521008403
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5798319327731092
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5840336134453781
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5882352941176471
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.592436974789916
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.5966386554621849
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6008403361344538
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6050420168067226
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6092436974789915
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6134453781512604
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6176470588235294
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6218487394957983
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6260504201680672
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6302521008403361
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.634453781512605
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6386554621848739
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6428571428571428
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6470588235294117
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6512605042016807
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6554621848739496
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6596638655462185
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6638655462184874
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6680672268907563
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6722689075630252
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.676470588235294
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.680672268907563
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6848739495798319
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6890756302521008
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6932773109243697
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.6974789915966386
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7016806722689075
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7058823529411764
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7100840336134453
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7142857142857143
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7184873949579832
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7226890756302521
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.726890756302521
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7310924369747899
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7352941176470588
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7394957983193277
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7436974789915967
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7478991596638656
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7521008403361344
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7563025210084033
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7605042016806722
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7647058823529411
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.76890756302521
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7731092436974789
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7773109243697479
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7815126050420168
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7857142857142857
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7899159663865546
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7941176470588235
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.7983193277310924
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8025210084033613
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8067226890756303
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8109243697478992
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8151260504201681
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.819327731092437
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8235294117647058
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8277310924369747
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8319327731092436
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8361344537815125
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8403361344537815
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8445378151260504
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8487394957983193
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8529411764705882
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8571428571428571
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.861344537815126
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8655462184873949
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8697478991596638
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8739495798319328
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8781512605042017
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8823529411764706
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8865546218487395
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8907563025210083
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8949579831932772
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.8991596638655461
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9033613445378151
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.907563025210084
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9117647058823529
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9159663865546218
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9201680672268907
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9243697478991596
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9285714285714285
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9327731092436974
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9369747899159664
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9411764705882353
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9453781512605042
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9495798319327731
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.953781512605042
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9579831932773109
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9621848739495797
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9663865546218487
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9705882352941176
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9747899159663865
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9789915966386554
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9831932773109243
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9873949579831932
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.9915966386554621
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 0,
+				"damage": 0.995798319327731
+			},
+			"model": "item/shears"
+		},
+		{
+			"predicate": {
+				"damaged": 1,
+				"damage": 0
+			},
+			"model": "item/shears"
+		}
+	]
+}

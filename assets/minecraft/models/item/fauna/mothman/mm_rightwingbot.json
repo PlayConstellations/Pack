@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "custom/monthman",
+		"particle": "custom/monthman"
+	},
+	"elements": [
+		{
+			"from": [-3.7654, -1.75439, 10.52892],
+			"to": [6.2126, 10.40561, 10.52892],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.62856, -2.81839, 9.16092]},
+			"faces": {
+				"north": {"uv": [2, 0, 0, 2.5], "texture": "#0"},
+				"east": {"uv": [2, 0, 2, 2.5], "texture": "#0"},
+				"south": {"uv": [4, 0, 2, 2.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 2.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 4, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0.25, -13, 3.75],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "mothman",
+			"origin": [-0.2374, -24.0888, -3.43578],
+			"color": 0,
+			"children": [
+				{
+					"name": "wings",
+					"origin": [6.93085, -2.37762, 4.00672],
+					"color": 0,
+					"children": [0]
+				},
+				{
+					"name": "body",
+					"origin": [6.7626, -2.0188, 2.46922],
+					"color": 0,
+					"children": []
+				}
+			]
+		}
+	]
+}

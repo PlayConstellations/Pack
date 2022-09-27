@@ -1,0 +1,13 @@
+﻿{
+  "pack": {
+    "pack_format": 8,
+    "description": "§b§lWelcome to Constellations!"
+   },
+   "language": {
+      "en_us": {
+         "name": "English",
+         "region": "United States",
+         "bidirectional": false
+      }
+   }
+}

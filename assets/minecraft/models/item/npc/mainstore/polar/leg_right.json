@@ -1,0 +1,51 @@
+{
+	"credit": "Made by ItzPolar",
+	"textures": {
+		"0": "custom/npcs/mainstore/polar/skin",
+		"particle": "custom/npcs/mainstore/polar/skin"
+	},
+	"elements": [
+		{
+			"name": "right_leg_2nd_layer",
+			"from": [5.5, 1.5, 5.5],
+			"to": [10.5, 14.5, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [1, 9, 2, 12], "texture": "#0"},
+				"east": {"uv": [0, 9, 1, 12], "texture": "#0"},
+				"south": {"uv": [3, 9, 4, 12], "texture": "#0"},
+				"west": {"uv": [0, 9, 1, 12], "texture": "#0"},
+				"up": {"uv": [2, 9, 1, 8], "texture": "#0"},
+				"down": {"uv": [3, 8, 2, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "left_leg",
+			"from": [6, 2, 6],
+			"to": [10, 14, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+			"faces": {
+				"north": {"uv": [1, 5, 2, 8], "texture": "#0"},
+				"east": {"uv": [0, 5, 1, 8], "texture": "#0"},
+				"south": {"uv": [3, 5, 4, 8], "texture": "#0"},
+				"west": {"uv": [2, 5, 3, 8], "texture": "#0"},
+				"up": {"uv": [2, 5, 1, 4], "texture": "#0"},
+				"down": {"uv": [3, 4, 2, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 4.75, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "RLEG",
+			"origin": [-2, 2.5, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

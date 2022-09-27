@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/demotexture",
+		"particle": "custom/demotexture"
+	},
+	"elements": [
+		{
+			"name": "Upper Leg",
+			"from": [8.23518, 0.33, 8.442],
+			"to": [10.31518, 6.05, 10.522],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8.40482, -5.91, -8.198]},
+			"faces": {
+				"north": {"uv": [4.5, 4.5, 5.125, 6.25], "texture": "#0"},
+				"east": {"uv": [5, 0, 5.625, 1.75], "texture": "#0"},
+				"south": {"uv": [1, 5, 1.625, 6.75], "texture": "#0"},
+				"west": {"uv": [2, 5, 2.625, 6.75], "texture": "#0"},
+				"up": {"uv": [7.625, 9.625, 7, 9], "texture": "#0"},
+				"down": {"uv": [9.625, 7.5, 9, 8.125], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [7.78, -0.7, 12.18],
+			"scale": [0.67773, 0.67773, 0.67773]
+		},
+		"gui": {
+			"rotation": [-180, 25.75, -176],
+			"scale": [0.49023, 0.49023, 0.49023]
+		},
+		"head": {
+			"translation": [-5, 3.25, -6],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 0, -3.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "Body",
+			"origin": [-4.56482, -5.91, -4.358],
+			"color": 0,
+			"children": [
+				{
+					"name": "Torso",
+					"origin": [-6.96482, -5.91, -6.758],
+					"color": 0,
+					"children": [
+						{
+							"name": "Right Leg",
+							"origin": [-6.96482, -5.91, -6.758],
+							"color": 0,
+							"children": [
+								{
+									"name": "Upper Leg",
+									"origin": [4.08518, 1.7775, 4.292],
+									"color": 0,
+									"children": [0]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

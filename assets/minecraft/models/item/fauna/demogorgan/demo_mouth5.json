@@ -1,0 +1,97 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/demotexture",
+		"particle": "custom/demotexture"
+	},
+	"elements": [
+		{
+			"from": [2.2293, 15.60691, 6.258],
+			"to": [4.3093, 17.16691, 6.778],
+			"rotation": {"angle": 45, "axis": "z", "origin": [5.3493, 19.50691, 6.518]},
+			"faces": {
+				"north": {"uv": [10, 1.5, 10.625, 2], "texture": "#0"},
+				"east": {"uv": [11.5, 3.5, 11.625, 4], "texture": "#0"},
+				"south": {"uv": [2, 10, 2.625, 10.5], "texture": "#0"},
+				"west": {"uv": [11.5, 4, 11.625, 4.5], "texture": "#0"},
+				"up": {"uv": [0.625, 11.125, 0, 11], "texture": "#0"},
+				"down": {"uv": [11.625, 0, 11, 0.125], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.1493, 15.60691, 6.258],
+			"to": [2.2293, 17.16691, 6.778],
+			"rotation": {"angle": 45, "axis": "z", "origin": [5.3493, 19.50691, 6.518]},
+			"faces": {
+				"north": {"uv": [10, 2, 10.625, 2.5], "texture": "#0"},
+				"east": {"uv": [11.5, 4.5, 11.625, 5], "texture": "#0"},
+				"south": {"uv": [10, 2.5, 10.625, 3], "texture": "#0"},
+				"west": {"uv": [11.5, 5, 11.625, 5.5], "texture": "#0"},
+				"up": {"uv": [11.625, 0.625, 11, 0.5], "texture": "#0"},
+				"down": {"uv": [1.625, 11, 1, 11.125], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [7.78, -0.7, 12.18],
+			"scale": [0.67773, 0.67773, 0.67773]
+		},
+		"gui": {
+			"rotation": [-180, 25.75, -176],
+			"scale": [0.49023, 0.49023, 0.49023]
+		},
+		"head": {
+			"translation": [0, -13, -2],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 0, -3.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "Body",
+			"origin": [-4.56482, -5.91, -4.358],
+			"color": 0,
+			"children": [
+				{
+					"name": "Torso",
+					"origin": [-6.96482, -5.91, -6.758],
+					"color": 0,
+					"children": [
+						{
+							"name": "Head",
+							"origin": [3.24018, 10.665, 2.4395],
+							"color": 0,
+							"children": [
+								{
+									"name": "Main",
+									"origin": [3.20768, 6.44, 4.292],
+									"color": 0,
+									"children": [
+										{
+											"name": "5",
+											"origin": [1.63151, 9.97557, 2.4395],
+											"color": 0,
+											"children": [
+												0,
+												{
+													"name": "group3",
+													"origin": [1.63151, 9.97557, 2.4395],
+													"color": 0,
+													"children": [1]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

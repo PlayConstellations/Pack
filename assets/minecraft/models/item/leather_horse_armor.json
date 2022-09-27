@@ -1,0 +1,100 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/leather_horse_armor"
+   },
+   "overrides":[
+      {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"item/cosmetics/mushroom_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 2
+         },
+         "model":"item/cosmetics/full_popcorn"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 3
+         },
+         "model":"item/cosmetics/empty_popcorn"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 4
+         },
+         "model":"item/cosmetics/guitar"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 5
+         },
+         "model":"item/cosmetics/wiz_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 6
+         },
+         "model":"item/cosmetics/witch_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 7
+         },
+         "model":"item/cosmetics/construction_cone"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 8
+         },
+         "model":"item/cosmetics/tophat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 9
+         },
+         "model":"item/cosmetics/frog_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 10
+         },
+         "model":"item/cosmetics/fedora"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 11
+         },
+         "model":"item/cosmetics/construction_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 12
+         },
+         "model":"item/cosmetics/dustins_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 13
+         },
+         "model":"item/cosmetics/cookie_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 14
+         },
+         "model":"item/cosmetics/scarf"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 15
+         },
+         "model":"item/leather_horse_armor"
+
+
+      }
+   ]
+}

@@ -1,0 +1,51 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/iron_horse_armor"
+   },
+   "overrides":[
+      {
+         "predicate":{
+            "custom_model_data": 1
+         },
+         "model":"item/vehicles/mmrr_locomotive"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 2
+         },
+         "model":"item/iron_horse_armor"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 3
+         },
+         "model":"item/iron_horse_armor"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 4
+         },
+         "model":"item/iron_horse_armor"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 5
+         },
+         "model":"item/iron_horse_armor"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 6
+         },
+         "model":"item/iron_horse_armor"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 7
+         },
+         "model":"item/iron_horse_armor"
+
+      }
+   ]
+}

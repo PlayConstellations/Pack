@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/demotexture",
+		"particle": "custom/demotexture"
+	},
+	"elements": [
+		{
+			"name": "Shin",
+			"from": [8.49518, -4.87, 8.442],
+			"to": [10.05518, 0.33, 10.522],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8.40482, -5.91, -8.198]},
+			"faces": {
+				"north": {"uv": [8, 8, 8.5, 9.625], "texture": "#0"},
+				"east": {"uv": [7, 2, 7.625, 3.625], "texture": "#0"},
+				"south": {"uv": [4, 8.5, 4.5, 10.125], "texture": "#0"},
+				"west": {"uv": [7, 6, 7.625, 7.625], "texture": "#0"},
+				"up": {"uv": [8, 10.625, 7.5, 10], "texture": "#0"},
+				"down": {"uv": [10.5, 7.5, 10, 8.125], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"rotation": [7.78, -0.7, 12.18],
+			"scale": [0.67773, 0.67773, 0.67773]
+		},
+		"gui": {
+			"rotation": [-180, 25.75, -176],
+			"scale": [0.49023, 0.49023, 0.49023]
+		},
+		"head": {
+			"translation": [-5.25, 26, -5.75],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 0, -3.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "Body",
+			"origin": [-4.56482, -5.91, -4.358],
+			"color": 0,
+			"children": [
+				{
+					"name": "Torso",
+					"origin": [-6.96482, -5.91, -6.758],
+					"color": 0,
+					"children": [
+						{
+							"name": "Right Leg",
+							"origin": [-6.96482, -5.91, -6.758],
+							"color": 0,
+							"children": [
+								{
+									"name": "Upper Leg",
+									"origin": [4.08518, 1.7775, 4.292],
+									"color": 0,
+									"children": [
+										{
+											"name": "Lower Leg",
+											"origin": [4.08518, -1.91, 4.292],
+											"color": 0,
+											"children": [0]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
