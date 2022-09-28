@@ -1,8 +1,8 @@
 {
 	"credit": "Made by ItzPolar",
 	"textures": {
-		"0": "custom/npcs/mainstore/jones/skin",
-		"particle": "custom/npcs/mainstore/jones/skin"
+		"0": "custom/npcs/mainstore/mannequin/skin",
+		"particle": "custom/npcs/mainstore/mannequin/skin"
 	},
 	"elements": [
 		{
