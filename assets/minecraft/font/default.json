@@ -1,234 +1,331 @@
 {
-   "providers":[
+   "providers": [
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/greenexclam.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/greenexclam.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "⓪"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/redexclam.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/redexclam.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "①"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/afk.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/afk.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "②"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/short.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/short.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "③"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/medium.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/medium.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "④"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/long.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/long.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "⑤"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/owner.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/owner.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "쌈"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/director.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/director.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "쐅"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/patron.png",
-         "ascent":8,
-         "height":8,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/patron.png",
+         "ascent": 8,
+         "height": 8,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "쌣"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/voyager.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/voyager.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "쐆"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/staff.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/staff.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "逻"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/intern.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/intern.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "鄈"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/explorer.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/explorer.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "鄞"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/ranks/stargazer.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/ranks/stargazer.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "递"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/common.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/common.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "ⓩ̧"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/rare.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/rare.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "ⓨ"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/legendary.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/legendary.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "ⓧ"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/glorious.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/glorious.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "ⓦ"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/limited.png",
-         "ascent":7,
-         "height":7,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/limited.png",
+         "ascent": 7,
+         "height": 7,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "ⓥ"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/fragment.png",
-         "ascent":8,
-         "height":8,
-         "size":10,
-         "oversample":10,
-         "chars":[
+         "type": "bitmap",
+         "file": "minecraft:font/info/fragment.png",
+         "ascent": 8,
+         "height": 8,
+         "size": 10,
+         "oversample": 10,
+         "chars": [
             "ⓤ"
          ]
       },
       {
-         "type":"bitmap",
-         "file":"minecraft:font/info/shop.png",
+         "type": "bitmap",
+         "file": "minecraft:font/info/shop.png",
          "ascent": 16,
          "height": 16,
          "size": 10.0,
          "oversample": 10.0,
-         "chars":[
+         "chars": [
             "⎊"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "font/ui/menu_titles.png",
+         "ascent": 20,
+         "height": 20,
+         "chars": [
+            "씁",
+            "씂",
+            "씃",
+            "씄",
+            "씅",
+            "씆",
+            "씇",
+            "씈",
+            "씉",
+            "씊",
+            "씋",
+            "씌",
+            "씍",
+            "씎",
+            "씏",
+            "씐",
+            "씑",
+            "씒",
+            "씓",
+            "씔",
+            "씕",
+            "씖",
+            "씗",
+            "씘",
+            "씙",
+            "씚",
+            "씛"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "font/ui/menu_titles.png",
+         "ascent": 18,
+         "height": 20,
+         "chars": [
+            "앑",
+            "앒",
+            "앓",
+            "암",
+            "압",
+            "앖",
+            "앗",
+            "았",
+            "앙",
+            "앚",
+            "앛",
+            "앜",
+            "앝",
+            "앞",
+            "앟",
+            "애",
+            "액",
+            "앢",
+            "앣",
+            "앤",
+            "앥",
+            "앦",
+            "앧",
+            "앨",
+            "앩",
+            "앪",
+            "앫"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "font/ui/menu_content_medium.png",
+         "ascent": 19,
+         "height": 256,
+         "chars": [
+            "섃"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "font/ui/pixel_nosplit.png",
+         "ascent": -32768,
+         "height": -10,
+         "chars": [
+            "\uE213"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "font/ui/pixel_nosplit.png",
+         "ascent": -32768,
+         "height": -10,
+         "chars": [
+            "\uE213"
          ]
       }
    ]
