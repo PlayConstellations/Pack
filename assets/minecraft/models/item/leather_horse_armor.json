@@ -92,9 +92,7 @@
          "predicate":{
             "custom_model_data": 15
          },
-         "model":"item/grabbermask"
-
-
+         "model":"item/cosmetics/grabbermask"
       }
    ]
 }
