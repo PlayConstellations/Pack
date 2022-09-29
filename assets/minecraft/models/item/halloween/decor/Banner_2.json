@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "B2T",
-		"particle": "B2T"
+		"particle": "custom/B2T"
 	},
 	"elements": [
 		{
