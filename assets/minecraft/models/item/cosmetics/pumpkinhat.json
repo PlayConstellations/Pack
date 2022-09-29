@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "PH1",
-		"particle": "PH1"
+		"particle": "custom/PH1"
 	},
 	"elements": [
 		{
