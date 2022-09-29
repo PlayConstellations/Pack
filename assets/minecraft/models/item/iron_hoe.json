@@ -288,7 +288,7 @@
 				"damaged": 0,
 				"damage": 0.1680672268907563
 			},
-			"model": "item/halloween/scarecrow/scrowarm3"
+			"model": "item/halloween/scarecrow/LightTexture1"
 		},
 		{
 			"predicate": {
