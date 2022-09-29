@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "B1T"
+		"1": "custom/B1T"
 	},
 	"elements": [
 		{
