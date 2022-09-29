@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "BD",
+		"2": "custom/BD",
 		"particle": "BD"
 	},
 	"elements": [
