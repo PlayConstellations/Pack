@@ -239,56 +239,56 @@
 				"damaged": 0,
 				"damage": 0.13865546218487396
 			},
-			"model": "item/halloween/decor/horse"
+			"model": "item/halloween/decor/halloweenhorse"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.14285714285714285
 			},
-			"model": "item/halloween/decor/B1T"
+			"model": "item/halloween/decor/banner1"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.14705882352941177
 			},
-			"model": "item/halloween/decor/B2T"
+			"model": "item/halloween/decor/banner2"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.15126050420168066
 			},
-			"model": "item/halloween/decor/B3T"
+			"model": "item/halloween/decor/banner3"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.15546218487394958
 			},
-			"model": "item/halloween/decor/B4T"
+			"model": "item/halloween/decor/banner4"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.15966386554621848
 			},
-			"model": "item/halloween/decor/BatDecor"
+			"model": "item/halloween/decor/batdecor"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.1638655462184874
 			},
-			"model": "item/halloween/decor/LampBannerHalloween"
+			"model": "item/halloween/decor/lampbannerhalloween"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.1680672268907563
 			},
-			"model": "item/halloween/decor/LightTexture1"
+			"model": "item/halloween/decor/halloweenlights"
 		},
 		{
 			"predicate": {
