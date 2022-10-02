@@ -178,7 +178,7 @@
          "model":"block/note_block/wallpaper/bug2_wallpaper"
       },
       "instrument=banjo,note=2":{
-         "model":"block/note_block/wallpaper/coralinewallpaper"         
+         "model":"block/note_block/misc/coralinewallpaper"         
       }
    }
 }
