@@ -295,7 +295,7 @@
 				"damaged": 0,
 				"damage": 0.1722689075630252
 			},
-			"model": "item/halloween/scarecrow/scrowarm4"
+			"model": "item/halloween/decor/curtain1"
 		},
 		{
 			"predicate": {
