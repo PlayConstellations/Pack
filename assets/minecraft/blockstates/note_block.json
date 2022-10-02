@@ -133,10 +133,10 @@
          "model":"block/note_block/misc/manhole_cover"    
       },
       "instrument=hat,note=19":{
-         "model":"block/note_block/"    
+         "model":"block/note_block/misc/tilewall"    
       },
       "instrument=hat,note=20":{
-         "model":"block/note_block/"      
+         "model":"block/note_block/misc/tilewallblood"      
       },
       "instrument=hat,note=21":{
          "model":"block/note_block/"
@@ -151,7 +151,7 @@
          "model":"block/note_block/misc/checker_tile"
       },
       "instrument=snare,note=3":{
-         "model":"block/note_block/"
+         "model":"block/note_block/misc/checkerdirty"
       },
       "instrument=snare,note=4":{
          "model":"block/note_block/"
@@ -176,6 +176,9 @@
       },
       "instrument=banjo,note=2":{
          "model":"block/note_block/wallpaper/bug2_wallpaper"
+      },
+      "instrument=banjo,note=2":{
+         "model":"block/note_block/wallpaper/coralinewallpaper"         
       }
    }
 }
