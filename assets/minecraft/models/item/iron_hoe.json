@@ -302,49 +302,49 @@
 				"damaged": 0,
 				"damage": 0.1764705882352941
 			},
-			"model": "item/halloween/scarecrow/sccrowarm5"
+			"model": "item/halloween/weeknd/curtain2"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.18067226890756302
 			},
-			"model": "item/halloween/scarecrow/scrowarm6"
+			"model": "item/halloween/weeknd/curtain3"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.18487394957983191
 			},
-			"model": "item/misc/grootbodytransparent"
+			"model": "item/halloween/weeknd/table2"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.18907563025210083
 			},
-			"model": "item/misc/crpearth"
+			"model": "item/halloween/blumhouse/grabbermaskblank"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.19327731092436973
 			},
-			"model": "item/misc/connectionssign"
+			"model": "item/halloween/blumhouse/grabbermaskfrown"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.19747899159663865
 			},
-			"model": "item/misc/cafesign"
+			"model": "item/halloween/blumhouse/grabbermasksmile"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.20168067226890757
 			},
-			"model": "item/misc/eaterysign"
+			"model": "item/halloween/blumhouse/grabbermasktop"
 		},
 		{
 			"predicate": {
