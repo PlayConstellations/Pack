@@ -351,14 +351,14 @@
 				"damaged": 0,
 				"damage": 0.20588235294117646
 			},
-			"model": "item/misc/creationssign"
+			"model": "item/halloween/weeknd/weekndarm1"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.21008403361344538
 			},
-			"model": "item/misc/shopsign"
+			"model": "item/halloween/weeknd/weekndarm2"
 		},
 		{
 			"predicate": {
