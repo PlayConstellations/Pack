@@ -365,42 +365,42 @@
 				"damaged": 0,
 				"damage": 0.21428571428571427
 			},
-			"model": "item/misc/purplegalaxy"
+			"model": "item/halloween/blumhouse/blackphoneposter1"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2184873949579832
 			},
-			"model": "item/misc/redgalaxy"
+			"model": "item/halloween/blumhouse/blackphoneposter2"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2226890756302521
 			},
-			"model": "item/misc/blankspace"
+			"model": "item/halloween/blumhouse/blackphoneposter3"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.226890756302521
 			},
-			"model": "item/misc/crswitchbacks"
+			"model": "item/halloween/blumhouse/blackphoneposter4"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2310924369747899
 			},
-			"model": "item/misc/crpslights"
+			"model": "item/halloween/blumhouse/blackphoneposter5"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.23529411764705882
 			},
-			"model": "item/shears"
+			"model": "item/halloween/blumhouse/blackphoneposter6"
 		},
 		{
 			"predicate": {
