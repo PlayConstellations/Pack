@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "poster6",
-		"particle": "poster6"
+		"0": "custom/poster6",
+		"particle": "custom/poster6"
 	},
 	"elements": [
 		{
