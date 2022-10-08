@@ -414,7 +414,7 @@
 				"damaged": 0,
 				"damage": 0.24369747899159663
 			},
-			"model": "item/misc/Skelly"
+			"model": "item/halloween/decor/Skelly"
 		},
 		{
 			"predicate": {
