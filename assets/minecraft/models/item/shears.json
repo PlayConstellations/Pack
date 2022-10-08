@@ -484,14 +484,14 @@
 				"damaged": 0,
 				"damage": 0.2857142857142857
 			},
-			"model": "item/shears"
+			"model": "item/misc/chair_metal"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2899159663865546
 			},
-			"model": "item/shears"
+			"model": "item/misc/umbrella"
 		},
 		{
 			"predicate": {
