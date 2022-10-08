@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "umbrella",
-		"particle": "umbrella"
+		"0": "custom/umbrella",
+		"particle": "custom/umbrella"
 	},
 	"elements": [
 		{
