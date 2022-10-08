@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "button",
-		"particle": "button"
+		"0": "custom/button",
+		"particle": "custom/button"
 	},
 	"elements": [
 		{
