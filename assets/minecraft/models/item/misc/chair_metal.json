@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "chair_metal",
-		"particle": "chair_metal"
+		"0": "custom/chair_metal",
+		"particle": "custom/chair_metal"
 	},
 	"elements": [
 		{
