@@ -407,14 +407,14 @@
 				"damaged": 0,
 				"damage": 0.2394957983193277
 			},
-			"model": "item/shears"
+			"model": "item/halloween/coraline/button"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.24369747899159663
 			},
-			"model": "item/shears"
+			"model": "item/misc/Skelly"
 		},
 		{
 			"predicate": {
