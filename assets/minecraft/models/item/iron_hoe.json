@@ -435,35 +435,35 @@
 				"damaged": 0,
 				"damage": 0.25630252100840334
 			},
-			"model": "item/shears"
+			"model": "item/halloween/coraline/coralinering1"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.26050420168067223
 			},
-			"model": "item/shears"
+			"model": "item/halloween/coraline/coralinering2"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2647058823529412
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/frogtop"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2689075630252101
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/frogbottom"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.27310924369747897
 			},
-			"model": "item/shears"
+			"model": "item/halloween/blumhouse/locker"
 		},
 		{
 			"predicate": {
