@@ -484,7 +484,7 @@
 				"damaged": 0,
 				"damage": 0.2857142857142857
 			},
-			"model": "item/misc/chair_metal"
+			"model": "item/misc/metal_chair"
 		},
 		{
 			"predicate": {
@@ -498,7 +498,7 @@
 				"damaged": 0,
 				"damage": 0.29411764705882354
 			},
-			"model": "item/shears"
+			"model": "item/misc/old_tv"
 		},
 		{
 			"predicate": {
