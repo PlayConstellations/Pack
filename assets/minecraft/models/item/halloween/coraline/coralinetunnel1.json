@@ -1,0 +1,68 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "coralinetunnel1",
+		"particle": "coralinetunnel1"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, -16],
+			"to": [32, -16, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -16, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 32, -16],
+			"to": [32, 32, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 32, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [32, -16, -16],
+			"to": [32, 32, 32],
+			"rotation": {"angle": 0, "axis": "x", "origin": [32, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, -16, -16],
+			"to": [-16, 32, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}
