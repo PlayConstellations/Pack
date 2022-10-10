@@ -421,14 +421,14 @@
 				"damaged": 0,
 				"damage": 0.24789915966386553
 			},
-			"model": "item/shears"
+			"model": "item/halloween/coraline/coralinetunnel1"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.25210084033613445
 			},
-			"model": "item/shears"
+			"model": "item/halloween/coraline/coralinetunnel2"
 		},
 		{
 			"predicate": {
