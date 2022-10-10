@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "D:/Cole/Drive/Documents/Cosmos/Models/coralinering2",
-		"particle": "D:/Cole/Drive/Documents/Cosmos/Models/coralinering2"
+		"0": "custom/coralinering2",
+		"particle": "custom/coralinering2"
 	},
 	"elements": [
 		{
