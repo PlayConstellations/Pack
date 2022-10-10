@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "coralinetunnel1",
-		"particle": "coralinetunnel1"
+		"0": "custom/coralinetunnel1",
+		"particle": "custom/coralinetunnel1"
 	},
 	"elements": [
 		{
