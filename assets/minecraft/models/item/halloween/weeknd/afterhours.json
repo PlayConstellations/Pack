@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/afterhours",
+		"particle": "custom/afterhours"
+	},
+	"elements": [
+		{
+			"from": [-9, 0, 0],
+			"to": [16, 4.5, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 13.5, 2.25], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 2.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 13.5, 2.25], "texture": "#0"},
+				"west": {"uv": [13, 0, 13.5, 2.25], "texture": "#0"},
+				"up": {"uv": [0, 1.75, 13.5, 2.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 13.5, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [15.25, 31.75, 22.25],
+			"scale": [3.4, 3.4, 3.4]
+		},
+		"fixed": {
+			"translation": [17, 23.5, 27],
+			"scale": [4, 4, 4]
+		}
+	}
+}
