@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "pipe",
-		"1": "block/texture",
-		"particle": "pipe"
+		"0": "custom/pipe",
+		"1": "custom/pipe2",
+		"particle": "custom/pipe"
 	},
 	"elements": [
 		{
