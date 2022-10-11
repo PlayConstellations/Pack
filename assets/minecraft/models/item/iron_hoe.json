@@ -470,21 +470,21 @@
 				"damaged": 0,
 				"damage": 0.2773109243697479
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/glasses"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2815126050420168
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/afterhours"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.2857142857142857
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/pipe"
 		},
 		{
 			"predicate": {
