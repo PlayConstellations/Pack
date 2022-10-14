@@ -92,12 +92,19 @@
          "predicate":{
             "custom_model_data": 15
          },
-         "model":"item/cosmetics/grabbermask"},
+         "model":"item/cosmetics/grabbermask"
+      },
       {
          "predicate":{
             "custom_model_data": 16
          },
          "model":"item/cosmetics/pumpkinhat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 17
+         },
+         "model":"item/cosmetics/amongus"
       }
    ]
 }
