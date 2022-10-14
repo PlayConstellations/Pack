@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/mantis",
+		"particle": "custom/mantis"
+	},
+	"elements": [
+		{
+			"from": [4, 2.76167, -14.3033],
+			"to": [5, 4.76167, -5.3033],
+			"rotation": {"angle": -45, "axis": "x", "origin": [4, 4.26167, -10.3033]},
+			"faces": {
+				"north": {"uv": [4.75, 0, 5, 0.5], "texture": "#0"},
+				"east": {"uv": [6.75, 2.5, 9, 3], "texture": "#0"},
+				"south": {"uv": [4.75, 0.5, 5, 1], "texture": "#0"},
+				"west": {"uv": [7, 3, 9.25, 3.5], "texture": "#0"},
+				"up": {"uv": [5, 7.25, 4.75, 5], "texture": "#0"},
+				"down": {"uv": [1, 9.25, 0.75, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 2.4939, -9.29289],
+			"to": [5.5, 5.4939, 0.70711],
+			"rotation": {"angle": 45, "axis": "x", "origin": [4, 2.4939, -4.29289]},
+			"faces": {
+				"north": {"uv": [2.5, 9.25, 3, 10], "texture": "#0"},
+				"east": {"uv": [6.75, 0, 9.25, 0.75], "texture": "#0"},
+				"south": {"uv": [3, 9.25, 3.5, 10], "texture": "#0"},
+				"west": {"uv": [6.75, 0.75, 9.25, 1.5], "texture": "#0"},
+				"up": {"uv": [1.5, 9.25, 1, 6.75], "texture": "#0"},
+				"down": {"uv": [2, 6.75, 1.5, 9.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, -6.72792, 3],
+			"to": [6, 5.27208, 7],
+			"rotation": {"angle": 45, "axis": "x", "origin": [4, 3.27208, 11.89949]},
+			"faces": {
+				"north": {"uv": [4, 5, 4.75, 8], "texture": "#0"},
+				"east": {"uv": [2, 2, 3, 5], "texture": "#0"},
+				"south": {"uv": [5, 4.25, 5.75, 7.25], "texture": "#0"},
+				"west": {"uv": [3, 2, 4, 5], "texture": "#0"},
+				"up": {"uv": [9.75, 6.75, 9, 5.75], "texture": "#0"},
+				"down": {"uv": [9.75, 7.75, 9, 8.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-6, 0, 0]
+		},
+		"head": {
+			"translation": [0, 15.75, -8],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"fixed": {
+			"rotation": [0, -1, 0],
+			"translation": [0, 5.25, -4],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "arms",
+			"origin": [11, 4.26167, -10.3033],
+			"color": 0,
+			"children": [
+				{
+					"name": "leftarm",
+					"origin": [4, 3.27208, 11.89949],
+					"color": 0,
+					"children": [0, 1, 2]
+				}
+			]
+		}
+	]
+}
