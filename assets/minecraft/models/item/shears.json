@@ -554,14 +554,14 @@
 				"damaged": 0,
 				"damage": 0.3277310924369748
 			},
-			"model": "item/shears"
+			"model": "item/misc/smalllamp"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3319327731092437
 			},
-			"model": "item/shears"
+			"model": "item/misc/totlampmr"
 		},
 		{
 			"predicate": {
