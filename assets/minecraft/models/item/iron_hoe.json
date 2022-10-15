@@ -519,14 +519,14 @@
 				"damaged": 0,
 				"damage": 0.3067226890756302
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/girl"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.31092436974789917
 			},
-			"model": "item/shears"
+			"model": "item/halloween/weeknd/axegirl"
 		},
 		{
 			"predicate": {
