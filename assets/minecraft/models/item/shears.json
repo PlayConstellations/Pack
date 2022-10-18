@@ -568,7 +568,7 @@
 				"damaged": 0,
 				"damage": 0.3361344537815126
 			},
-			"model": "item/shears"
+			"model": "item/misc/entrance_lamp1"
 		},
 		{
 			"predicate": {
