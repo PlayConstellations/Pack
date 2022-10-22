@@ -575,7 +575,7 @@
 				"damaged": 0,
 				"damage": 0.3403361344537815
 			},
-			"model": "item/shears"
+			"model": "item/tottable"
 		},
 		{
 			"predicate": {
