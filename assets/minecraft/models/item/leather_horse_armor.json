@@ -111,6 +111,12 @@
             "custom_model_data": 18
          },
          "model":"item/cosmetics/bobinsky_hat"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 19
+         },
+         "model":"item/cosmetics/tv_hat"
       }
    ]
 }
