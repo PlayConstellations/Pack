@@ -582,7 +582,7 @@
 				"damaged": 0,
 				"damage": 0.3445378151260504
 			},
-			"model": "item/shears"
+			"model": "item/misc/gate"
 		},
 		{
 			"predicate": {
