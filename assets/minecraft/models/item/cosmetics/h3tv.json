@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "h3tv",
-		"1": "h3tv_screen",
-		"particle": "h3tv"
+		"0": "custom/h3tv",
+		"1": "custom/h3tv_screen",
+		"particle": "custom/h3tv"
 	},
 	"elements": [
 		{
