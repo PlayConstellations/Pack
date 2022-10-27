@@ -155,7 +155,7 @@
 				"damaged": 0,
 				"damage": 0.08823529411764705
 			},
-			"model": "item/misc/lamp1"
+			"model": "item/misc/gate"
 		},
 		{
 			"predicate": {
