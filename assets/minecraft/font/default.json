@@ -233,6 +233,28 @@
       },
       {
          "type": "bitmap",
+         "file": "minecraft:font/info/join.png",
+         "ascent": 16,
+         "height": 16,
+         "size": 10.0,
+         "oversample": 10.0,
+         "chars": [
+            "✔"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:font/info/leave.png",
+         "ascent": 16,
+         "height": 16,
+         "size": 10.0,
+         "oversample": 10.0,
+         "chars": [
+            "✖"
+         ]
+      },
+      {
+         "type": "bitmap",
          "file": "font/ui/menu_titles.png",
          "ascent": 20,
          "height": 20,
