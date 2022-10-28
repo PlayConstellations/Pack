@@ -123,6 +123,12 @@
             "custom_model_data": 20
          },
          "model":"item/cosmetics/h3tv"
+      },
+      {
+         "predicate":{
+            "custom_model_data": 21
+         },
+         "model":"item/cosmetics/pump_stack"
       }
    ]
 }
