@@ -589,7 +589,7 @@
 				"damaged": 0,
 				"damage": 0.3487394957983193
 			},
-			"model": "item/shears"
+			"model": "item/misc/info"
 		},
 		{
 			"predicate": {
