@@ -561,91 +561,91 @@
 				"damaged": 0,
 				"damage": 0.3319327731092437
 			},
-			"model": "item/shears"
+			"model": "item/misc/bluespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3361344537815126
 			},
-			"model": "item/shears"
+			"model": "item/misc/darkbluespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3403361344537815
 			},
-			"model": "item/shears"
+			"model": "item/misc/darkgreenspotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3445378151260504
 			},
-			"model": "item/shears"
+			"model": "item/misc/darkpurplespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3487394957983193
 			},
-			"model": "item/shears"
+			"model": "item/misc/grayspotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3529411764705882
 			},
-			"model": "item/shears"
+			"model": "item/misc/icebluespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.35714285714285715
 			},
-			"model": "item/shears"
+			"model": "item/misc/lightbluespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.36134453781512604
 			},
-			"model": "item/shears"
+			"model": "item/misc/limespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.36554621848739494
 			},
-			"model": "item/shears"
+			"model": "item/misc/magentaspotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.36974789915966383
 			},
-			"model": "item/shears"
+			"model": "item/misc/pinkspotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.3739495798319328
 			},
-			"model": "item/shears"
+			"model": "item/misc/purplespotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.37815126050420167
 			},
-			"model": "item/shears"
+			"model": "item/misc/redspotlight"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.38235294117647056
 			},
-			"model": "item/shears"
+			"model": "item/misc/whitespotlight"
 		},
 		{
 			"predicate": {
