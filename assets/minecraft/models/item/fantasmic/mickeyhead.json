@@ -1,0 +1,92 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/mickeymouse",
+		"1": "custom/mickears",
+		"particle": "custom/mickeymouse"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [1.65004, 3.5, 4.29825],
+			"to": [9.65004, 11.5, 12.29825],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2.34996, -20, 0.29825]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [8.45004, 8.5, 3.29825],
+			"to": [14.25004, 14.5, 3.29825],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [-2.34996, -20, 0.29825]},
+			"faces": {
+				"north": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"east": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"south": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"west": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"up": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"down": {"uv": [2, 4, 8, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [-4.14996, 8.5, 9.29825],
+			"to": [1.65004, 14.5, 9.29825],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [-2.34996, -20, 0.29825]},
+			"faces": {
+				"north": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"east": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"south": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"west": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"up": {"uv": [2, 4, 8, 10], "texture": "#1"},
+				"down": {"uv": [2, 4, 8, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "head_2nd_layer",
+			"from": [1.15004, 3, 3.79825],
+			"to": [10.15004, 12, 12.79825],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2.34996, -20, 0.29825]},
+			"faces": {
+				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
+				"east": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"south": {"uv": [14, 2, 16, 4], "texture": "#0"},
+				"west": {"uv": [12, 2, 14, 4], "texture": "#0"},
+				"up": {"uv": [12, 2, 10, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 12, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [2.25, 0, -0.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [-2.75, -0.75, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"translation": [4, 1, -0.5],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"fixed": {
+			"translation": [2.5, -0.25, -0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "mickeyhead",
+			"origin": [5.65004, -12, 8.29825],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
