@@ -540,14 +540,14 @@
 				"damaged": 0,
 				"damage": 0.31932773109243695
 			},
-			"model": "item/halloween/coraline/spiral"
+			"model": "item/iron_hoe"
 		},
 		{
 			"predicate": {
 				"damaged": 0,
 				"damage": 0.32352941176470584
 			},
-			"model": "item/halloween/coraline/spiralbig"
+			"model": "item/iron_hoe"
 		},
 		{
 			"predicate": {
