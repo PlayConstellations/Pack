@@ -7,9 +7,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "⓪"
-         ]
+         "chars": ["\uE200"]
       },
       {
          "type": "bitmap",
@@ -18,9 +16,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "①"
-         ]
+         "chars": ["\uE201"]
       },
       {
          "type": "bitmap",
@@ -29,9 +25,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "②"
-         ]
+         "chars": ["\uE202"]
       },
       {
          "type": "bitmap",
@@ -40,9 +34,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "③"
-         ]
+         "chars": ["\uE203"]
       },
       {
          "type": "bitmap",
@@ -51,9 +43,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "④"
-         ]
+         "chars": ["\uE204"]
       },
       {
          "type": "bitmap",
@@ -62,9 +52,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "⑤"
-         ]
+         "chars": ["\uE205"]
       },
       {
          "type": "bitmap",
@@ -73,9 +61,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "쌈"
-         ]
+         "chars": ["\uE206"]
       },
       {
          "type": "bitmap",
@@ -84,9 +70,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "쐅"
-         ]
+         "chars": ["\uE207"]
       },
       {
          "type": "bitmap",
@@ -95,9 +79,7 @@
          "height": 8,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "쌣"
-         ]
+         "chars": ["\uE208"]
       },
       {
          "type": "bitmap",
@@ -106,9 +88,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "쐆"
-         ]
+         "chars": ["\uE209"]
       },
       {
          "type": "bitmap",
@@ -117,9 +97,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "逻"
-         ]
+         "chars": ["\uE210"]
       },
       {
          "type": "bitmap",
@@ -128,9 +106,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "鄈"
-         ]
+         "chars": ["\uE211"]
       },
       {
          "type": "bitmap",
@@ -139,9 +115,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "鄞"
-         ]
+         "chars": ["\uE212"]
       },
       {
          "type": "bitmap",
@@ -150,9 +124,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "递"
-         ]
+         "chars": ["\uE213"]
       },
       {
          "type": "bitmap",
@@ -161,9 +133,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "ⓩ̧"
-         ]
+         "chars": ["\uE214"]
       },
       {
          "type": "bitmap",
@@ -172,9 +142,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "ⓨ"
-         ]
+         "chars": ["\uE215"]
       },
       {
          "type": "bitmap",
@@ -183,9 +151,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "ⓧ"
-         ]
+         "chars": ["\uE216"]
       },
       {
          "type": "bitmap",
@@ -194,9 +160,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "ⓦ"
-         ]
+         "chars": ["\uE217"]
       },
       {
          "type": "bitmap",
@@ -205,9 +169,7 @@
          "height": 7,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "ⓥ"
-         ]
+         "chars": ["\uE218"]
       },
       {
          "type": "bitmap",
@@ -216,9 +178,7 @@
          "height": 8,
          "size": 10,
          "oversample": 10,
-         "chars": [
-            "ⓤ"
-         ]
+         "chars": ["\uE219"]
       },
       {
          "type": "bitmap",
@@ -227,9 +187,7 @@
          "height": 16,
          "size": 10.0,
          "oversample": 10.0,
-         "chars": [
-            "⎊"
-         ]
+         "chars": ["\uE220"]
       },
       {
          "type": "bitmap",
@@ -238,9 +196,7 @@
          "height": 7,
          "size": 10.0,
          "oversample": 10.0,
-         "chars": [
-            "⋿"
-         ]
+         "chars": ["\uE221"]
       },
       {
          "type": "bitmap",
@@ -249,106 +205,7 @@
          "height": 7,
          "size": 10.0,
          "oversample": 10.0,
-         "chars": [
-            "⌀"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "font/ui/menu_titles.png",
-         "ascent": 20,
-         "height": 20,
-         "chars": [
-            "씁",
-            "씂",
-            "씃",
-            "씄",
-            "씅",
-            "씆",
-            "씇",
-            "씈",
-            "씉",
-            "씊",
-            "씋",
-            "씌",
-            "씍",
-            "씎",
-            "씏",
-            "씐",
-            "씑",
-            "씒",
-            "씓",
-            "씔",
-            "씕",
-            "씖",
-            "씗",
-            "씘",
-            "씙",
-            "씚",
-            "씛"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "font/ui/menu_titles.png",
-         "ascent": 18,
-         "height": 20,
-         "chars": [
-            "앑",
-            "앒",
-            "앓",
-            "암",
-            "압",
-            "앖",
-            "앗",
-            "았",
-            "앙",
-            "앚",
-            "앛",
-            "앜",
-            "앝",
-            "앞",
-            "앟",
-            "애",
-            "액",
-            "앢",
-            "앣",
-            "앤",
-            "앥",
-            "앦",
-            "앧",
-            "앨",
-            "앩",
-            "앪",
-            "앫"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "font/ui/menu_content_medium.png",
-         "ascent": 19,
-         "height": 256,
-         "chars": [
-            "섃"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "font/ui/pixel_nosplit.png",
-         "ascent": -32768,
-         "height": -10,
-         "chars": [
-            "\uE213"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "font/ui/pixel_nosplit.png",
-         "ascent": -32768,
-         "height": -10,
-         "chars": [
-            "\uE213"
-         ]
+         "chars": ["\uE222"]
       }
    ]
 }
