@@ -20,7 +20,7 @@ jobs:
         with:
           tag_name: v${{ github.run_number }}
           files: pack.zip
-      - name:
+      - name: Autoupdate
         env:
           PTERODACTYL_TOKEN: ${{ secrets.PTERODACTYL_TOKEN }}
         run: |
