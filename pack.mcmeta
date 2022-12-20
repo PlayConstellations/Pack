@@ -1,13 +1,24 @@
-﻿{
+{
   "pack": {
-    "pack_format": 8,
-    "description": "§b§lWelcome to Constellations!"
-   },
-   "language": {
-      "en_us": {
-         "name": "English",
-         "region": "United States",
-         "bidirectional": false
+    "pack_format": 9,
+    "description": [
+      {
+        "text": "Constellations",
+        "color": "#9b2ee9",
+        "bold": true
+      },
+      {
+        "text": "\nMain Pack (Parks & Hub) | 1.0.0",
+        "color": "#a3acbe",
+        "bold": false
       }
-   }
+    ]
+  },
+  "language": {
+    "en_us": {
+      "name": "English (US)",
+      "region": "United States",
+      "bidirectional": false
+    }
+  }
 }
