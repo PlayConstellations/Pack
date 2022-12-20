@@ -20,3 +20,10 @@ jobs:
         with:
           tag_name: v${{ github.run_number }}
           files: pack.zip
+      - name:
+        env:
+          PTERODACTYL_TOKEN: ${{ secrets.PTERODACTYL_TOKEN }}
+        run: |
+          curl "https://mc.bloom.host/api/client/servers/63bb8ad3/command" -H 'Accept: application/json' -H 'Content-Type: application/json' -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" -X POST -d '{"command": "frp generatehashes"}'
+          sleep 30
+          curl "https://mc.bloom.host/api/client/servers/63bb8ad3/command" -H 'Accept: application/json' -H 'Content-Type: application/json' -H "Authorization: Bearer ${PTERODACTYL_TOKEN}" -X POST -d '{"command": "frp reload resend"}'  
