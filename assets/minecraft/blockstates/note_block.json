@@ -22,13 +22,13 @@
          "model":"block/note_block/stone/limestone_pillar"
       },
       "instrument=basedrum,note=15":{
-         "model":"block/note_block"
+         "model":"block/note_block/stone/gray_brick"
       },
       "instrument=basedrum,note=16":{
-         "model":"block/note_block"
+         "model":"block/note_block/stone/chiseled_gray_brick"
       },
       "instrument=basedrum,note=17":{
-         "model":"block/note_block"
+         "model":"block/note_block/stone/cracked_gray_brick"
       },
       "instrument=basedrum,note=18":{
          "model":"block/note_block/misc/shutters"
