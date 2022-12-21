@@ -3,7 +3,7 @@
 	"texture_size": [256, 256],
 	"textures": {
 		"0": "constellations:model/rides/elevator",
-		"particle": "constellations:model/rides//elevator"
+		"particle": "constellations:model/rides/elevator"
 	},
 	"elements": [
 		{
